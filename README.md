@@ -7,6 +7,7 @@ It includes beginner-friendly Java programs, exercises, and basic concepts to st
 
 ## 📁 Project Structure
 learningJava/
+
 ├── src/ # All Java source files.
 
 ├── out/ # Compiled output (auto-generated).
