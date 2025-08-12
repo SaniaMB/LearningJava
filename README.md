@@ -26,7 +26,6 @@ learningJava/
 - ✅ Object-Oriented Programming (OOP)
 - ✅ File I/O
 - ✅ Exception Handling
-- 🛠️ More coming soon...
 
 ---
 
