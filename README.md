@@ -35,4 +35,4 @@ learningJava/
 ###▶️ Using IntelliJ IDEA:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/learningJava.git
+   git clone https://github.com/SaniaMB/LearningJava.git
